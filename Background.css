@@ -1,0 +1,14 @@
+section {
+    width: 80%;
+    height: 1200px;
+    /* background-image: url(https://initiate.alphacoders.com/images/127/cropped-2560-1440-1274305.png?1771);
+    background-size: cover;
+    background-position: center; */
+    background: center/cover no-repeat url(https://initiate.alphacoders.com/images/127/cropped-2560-1440-1274305.png?177);
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
